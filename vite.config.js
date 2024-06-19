@@ -92,8 +92,8 @@ export default ({ mode }) =>
       viteCompression(),
     ],
     server: {
-      port: "3000",
-      open: true,
+      port: "5577",
+      open: false,
     },
     resolve: {
       alias: [
