@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.1024.do/"
+  },
+  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.1024.do/"
@@ -8,6 +13,11 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://rss.1024.do/"
+  },
+  {
+    "icon": "React",
+    "name": "ChatGPT",
+    "link": "https://gpt.1024.do/"
   },
   {
     "icon": "Cloud",
