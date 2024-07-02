@@ -68,7 +68,6 @@ const siteIcon = {
   CompactDisc,
   Compass,
   Book,
-  React,
   Fire,
   LaptopCode,
   CalendarCheck,
