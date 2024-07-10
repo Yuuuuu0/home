@@ -15,6 +15,11 @@
     "link": "https://rss.1024.do/"
   },
   {
+    "icon": "React",
+    "name": "ChatGPT",
+    "link": "https://chat.1024.do/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.1024.do/"
