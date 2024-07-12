@@ -20,6 +20,11 @@
     "link": "https://chat.1024.do/"
   },
   {
+    "icon": "Centercode",
+    "name": "Claude",
+    "link": "https://claude.1024.do/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.1024.do/"
