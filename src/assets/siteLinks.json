@@ -33,10 +33,5 @@
     "icon": "CalendarCheck",
     "name": "贴吧签到",
     "link": "https://tieba.1024.do/"
-  },
-  {
-    "icon": "Tasks",
-    "name": "青龙面板",
-    "link": "https://ql.1024.do/"
   }
 ]
